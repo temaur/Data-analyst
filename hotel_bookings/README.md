@@ -38,7 +38,7 @@ Reservation status date – дата обновления статуса
 - Языки: Python (Pandas).  
 - Данные: CSV-файлы.  
 
-## Структура репозитория
+## Структура проекта
 hotel_bookings/2_bookings.csv - датафрейм с исходными данными.
 hotel_bookings/Bookings.py - Jupyter Notebook с решением поставленных задач.
 hotel_bookings/README - этот файл

@@ -15,7 +15,7 @@
 - Языки: Python (Pandas).  
 - Данные: CSV-файлы.    
 
-## Структура репозитория
+## Структура проекта
 sputnik8/Тестовое_задание_Product_Analyst_в_Спутник.docx - текст тестового задания.
 sputnik8/events filters к тестовому Product Analyst Q1 2024.csv - датафрейм с исходными данными.
 sputnik8/README.md - этот файл

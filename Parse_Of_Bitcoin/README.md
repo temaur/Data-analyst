@@ -22,3 +22,7 @@ Jupyter Notebook для сбора и анализа данных о курсе 
 ['percent_change_1h', 'percent_change_24h', 'percent_change_7d',
  'percent_change_30d', 'price', 'volume_24h', 'market_cap',
  'total_supply', 'circulating_supply', 'timestamp']
+
+## Стурктура проекта
+Parse_Of_Bitcoin/BTC_parser.ipynb - основной аналитический ноутбук.
+Parse_Of_Bitcoin/README.md - этот файл.
